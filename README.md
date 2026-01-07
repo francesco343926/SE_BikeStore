@@ -1,4 +1,4 @@
-# Simulazione d'Esame (BikeStore)
+# Simulazione d'Esame (BikeStore) - Soluzione
 
 ---
 > **❗ ATTENZIONE:** 
